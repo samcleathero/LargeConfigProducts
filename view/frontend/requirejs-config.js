@@ -9,6 +9,9 @@ var config = {
             //},
             'Magento_ConfigurableProduct/js/configurable': {
                 'Elgentos_LargeConfigProducts/js/configurable-mixin': true
+            },
+            'Amasty_Conf/js/configurable': {
+                'Elgentos_LargeConfigProducts/js/configurable-mixin': true
             }
         }
     }
